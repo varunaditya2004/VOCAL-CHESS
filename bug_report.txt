@@ -1,0 +1,407 @@
+----- 05/11/24 18:12:11 -----
+Traceback (most recent call last):
+  File "c:\Users\Lekhanag\Desktop\New folder (3)\gui.py", line 269, in play_as
+    playsound("Output.mp3")
+  File "C:\Users\Lekhanag\AppData\Roaming\Python\Python312\site-packages\playsound.py", line 73, in _playsoundWin
+    winCommand(u'play {}{}'.format(sound, ' wait' if block else ''))
+  File "C:\Users\Lekhanag\AppData\Roaming\Python\Python312\site-packages\playsound.py", line 64, in winCommand
+    raise PlaysoundException(exceptionMessage)
+playsound.PlaysoundException: 
+    Error 259 for command:
+        play Output.mp3 wait
+    The driver cannot recognize the specified command parameter.
+
+Playing as WHITE:
+	
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+-----------------------------
+
+----- 05/11/24 18:13:15 -----
+Traceback (most recent call last):
+  File "c:\Users\Lekhanag\Desktop\New folder (3)\gui.py", line 269, in play_as
+    playsound("Output.mp3")
+  File "C:\Users\Lekhanag\AppData\Roaming\Python\Python312\site-packages\playsound.py", line 72, in _playsoundWin
+    winCommand(u'open {}'.format(sound))
+  File "C:\Users\Lekhanag\AppData\Roaming\Python\Python312\site-packages\playsound.py", line 64, in winCommand
+    raise PlaysoundException(exceptionMessage)
+playsound.PlaysoundException: 
+    Error 263 for command:
+        open Output.mp3
+    The specified device is not open or is not recognized by MCI.
+
+Playing as BLACK:
+	d2d4
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
+-----------------------------
+
+----- 05/11/24 18:15:57 -----
+Traceback (most recent call last):
+  File "c:\Users\Lekhanag\Desktop\New folder (3)\gui.py", line 269, in play_as
+    playsound("Output.mp3")
+  File "C:\Users\Lekhanag\AppData\Roaming\Python\Python312\site-packages\playsound.py", line 72, in _playsoundWin
+    winCommand(u'open {}'.format(sound))
+  File "C:\Users\Lekhanag\AppData\Roaming\Python\Python312\site-packages\playsound.py", line 64, in winCommand
+    raise PlaysoundException(exceptionMessage)
+playsound.PlaysoundException: 
+    Error 263 for command:
+        open Output.mp3
+    The specified device is not open or is not recognized by MCI.
+
+Playing as BLACK:
+	c2c4
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 0 1
+-----------------------------
+
+----- 05/11/24 18:31:32 -----
+Traceback (most recent call last):
+  File "C:\Users\Lekhanag\AppData\Local\Temp\ipykernel_41280\4116055357.py", line 267, in play_as
+    playsound("Output.mp3")
+  File "C:\ProgramData\anaconda3\Lib\site-packages\playsound.py", line 72, in _playsoundWin
+    winCommand(u'open {}'.format(sound))
+  File "C:\ProgramData\anaconda3\Lib\site-packages\playsound.py", line 64, in winCommand
+    raise PlaysoundException(exceptionMessage)
+playsound.PlaysoundException: 
+    Error 263 for command:
+        open Output.mp3
+    The specified device is not open or is not recognized by MCI.
+
+Playing as WHITE:
+	
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+-----------------------------
+
+----- 05/11/24 18:32:51 -----
+Traceback (most recent call last):
+  File "C:\Users\Lekhanag\AppData\Local\Temp\ipykernel_32356\4116055357.py", line 267, in play_as
+    playsound("Output.mp3")
+  File "C:\ProgramData\anaconda3\Lib\site-packages\playsound.py", line 72, in _playsoundWin
+    winCommand(u'open {}'.format(sound))
+  File "C:\ProgramData\anaconda3\Lib\site-packages\playsound.py", line 64, in winCommand
+    raise PlaysoundException(exceptionMessage)
+playsound.PlaysoundException: 
+    Error 263 for command:
+        open Output.mp3
+    The specified device is not open or is not recognized by MCI.
+
+Playing as BLACK:
+	e2e4
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+-----------------------------
+
+----- 05/11/24 18:36:48 -----
+Traceback (most recent call last):
+  File "C:\Users\Lekhanag\AppData\Local\Temp\ipykernel_38184\4116055357.py", line 267, in play_as
+    playsound("Output.mp3")
+  File "C:\ProgramData\anaconda3\Lib\site-packages\playsound.py", line 72, in _playsoundWin
+    winCommand(u'open {}'.format(sound))
+  File "C:\ProgramData\anaconda3\Lib\site-packages\playsound.py", line 64, in winCommand
+    raise PlaysoundException(exceptionMessage)
+playsound.PlaysoundException: 
+    Error 263 for command:
+        open Output.mp3
+    The specified device is not open or is not recognized by MCI.
+
+Playing as WHITE:
+	
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+-----------------------------
+
+----- 05/12/24 15:25:16 -----
+Traceback (most recent call last):
+  File "C:\Users\Lekhanag\AppData\Local\Temp\ipykernel_8376\2593708737.py", line 240, in play_as
+    CLOCK.tick(CLOCK_TICK)
+KeyboardInterrupt
+
+Playing as BLACK:
+	c2c4
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 0 1
+-----------------------------
+
+----- 06/25/24 12:43:40 -----
+Traceback (most recent call last):
+  File "C:\Users\Lekhanag\AppData\Local\Temp\ipykernel_26552\2593708737.py", line 240, in play_as
+    CLOCK.tick(CLOCK_TICK)
+KeyboardInterrupt
+
+Playing as WHITE:
+	h2h3 d7d5 g1f3 g8f6
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/8/7P/PPPPPPP1/RNBQKBNR b KQkq - 0 1
+	rnbqkbnr/ppp1pppp/8/3p4/8/7P/PPPPPPP1/RNBQKBNR w KQkq d6 0 2
+	rnbqkbnr/ppp1pppp/8/3p4/8/5N1P/PPPPPPP1/RNBQKB1R b KQkq - 1 2
+	rnbqkb1r/ppp1pppp/5n2/3p4/8/5N1P/PPPPPPP1/RNBQKB1R w KQkq - 2 3
+-----------------------------
+
+----- 06/26/24 23:33:54 -----
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Temp\ipykernel_35420\2593708737.py", line 240, in play_as
+    CLOCK.tick(CLOCK_TICK)
+KeyboardInterrupt
+
+Playing as BLACK:
+	d2d4
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
+-----------------------------
+
+----- 06/26/24 23:35:07 -----
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Temp\ipykernel_34928\2593708737.py", line 240, in play_as
+    CLOCK.tick(CLOCK_TICK)
+KeyboardInterrupt
+
+Playing as BLACK:
+	d2d4
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
+-----------------------------
+
+----- 06/26/24 23:36:25 -----
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Temp\ipykernel_8980\2593708737.py", line 240, in play_as
+    CLOCK.tick(CLOCK_TICK)
+KeyboardInterrupt
+
+Playing as BLACK:
+	e2e4
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+-----------------------------
+
+----- 06/26/24 23:45:57 -----
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Temp\ipykernel_34740\2593708737.py", line 273, in play_as
+    text = r.recognize_google(audio_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\speech_recognition\recognizers\google.py", line 263, in recognize_legacy
+    return output_parser.parse(response_text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\speech_recognition\recognizers\google.py", line 134, in parse
+    actual_result = self.convert_to_result(response_text)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\speech_recognition\recognizers\google.py", line 183, in convert_to_result
+    raise UnknownValueError()
+speech_recognition.exceptions.UnknownValueError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Temp\ipykernel_34740\2593708737.py", line 280, in play_as
+    playsound("Output.mp3")
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\playsound.py", line 41, in _playsoundWin
+    sleep(float(durationInMS) / 1000.0)
+KeyboardInterrupt
+
+Playing as BLACK:
+	d2d4 b8a6 e2e4 c7c5 f1a6 c5d4 a6d3
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
+	r1bqkbnr/pppppppp/n7/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2
+	r1bqkbnr/pppppppp/n7/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 2
+	r1bqkbnr/pp1ppppp/n7/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq c6 0 3
+	r1bqkbnr/pp1ppppp/B7/2p5/3PP3/8/PPP2PPP/RNBQK1NR b KQkq - 0 3
+	r1bqkbnr/pp1ppppp/B7/8/3pP3/8/PPP2PPP/RNBQK1NR w KQkq - 0 4
+	r1bqkbnr/pp1ppppp/8/8/3pP3/3B4/PPP2PPP/RNBQK1NR b KQkq - 1 4
+-----------------------------
+
+----- 06/27/24 02:17:22 -----
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Temp\ipykernel_19844\2593708737.py", line 314, in play_as
+    leaving_square = coord2str(((int(text[0]) - 1) * SQUARE_SIDE, (int(text[1]) - 1) * SQUARE_SIDE),color)
+                                 ^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'S'
+
+Playing as WHITE:
+	g2g3 d7d5 g1h3 c8h3
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/8/6P1/PPPPPP1P/RNBQKBNR b KQkq - 0 1
+	rnbqkbnr/ppp1pppp/8/3p4/8/6P1/PPPPPP1P/RNBQKBNR w KQkq d6 0 2
+	rnbqkbnr/ppp1pppp/8/3p4/8/6PN/PPPPPP1P/RNBQKB1R b KQkq - 1 2
+	rn1qkbnr/ppp1pppp/8/3p4/8/6Pb/PPPPPP1P/RNBQKB1R w KQkq - 0 3
+-----------------------------
+
+----- 06/27/24 10:42:19 -----
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 964, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 615, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 203, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x000001843FA4F680>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /_/TranslateWebserverUi/data/batchexecute (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001843FA4F680>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\gtts\tts.py", line 268, in stream
+    r = s.send(
+        ^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /_/TranslateWebserverUi/data/batchexecute (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001843FA4F680>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Temp\ipykernel_10552\2593708737.py", line 266, in play_as
+    output.save("Output.mp3")
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\gtts\tts.py", line 335, in save
+    self.write_to_fp(f)
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\gtts\tts.py", line 316, in write_to_fp
+    for idx, decoded in enumerate(self.stream()):
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\gtts\tts.py", line 287, in stream
+    raise gTTSError(tts=self)
+gtts.tts.gTTSError: Failed to connect. Probable cause: Unknown
+
+Playing as BLACK:
+	g1f3
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1
+-----------------------------
+
+----- 06/27/24 10:44:03 -----
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 964, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 615, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 203, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000191C6BE3E00>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /_/TranslateWebserverUi/data/batchexecute (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000191C6BE3E00>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\gtts\tts.py", line 268, in stream
+    r = s.send(
+        ^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /_/TranslateWebserverUi/data/batchexecute (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000191C6BE3E00>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Temp\ipykernel_19232\2593708737.py", line 266, in play_as
+    output.save("Output.mp3")
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\gtts\tts.py", line 335, in save
+    self.write_to_fp(f)
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\gtts\tts.py", line 316, in write_to_fp
+    for idx, decoded in enumerate(self.stream()):
+  File "C:\Users\varun\AppData\Local\Programs\Python\Python312\Lib\site-packages\gtts\tts.py", line 287, in stream
+    raise gTTSError(tts=self)
+gtts.tts.gTTSError: Failed to connect. Probable cause: Unknown
+
+Playing as BLACK:
+	g1f3
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1
+-----------------------------
+
+----- 06/27/24 10:49:17 -----
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Temp\ipykernel_19232\2593708737.py", line 240, in play_as
+    CLOCK.tick(CLOCK_TICK)
+KeyboardInterrupt
+
+Playing as BLACK:
+	d2d4
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
+-----------------------------
+
+----- 06/27/24 11:16:26 -----
+Traceback (most recent call last):
+  File "C:\Users\varun\AppData\Local\Temp\ipykernel_11472\2593708737.py", line 241, in play_as
+    print_board(game.board, color)
+  File "C:\Users\varun\AppData\Local\Temp\ipykernel_11472\2593708737.py", line 210, in print_board
+    pygame.display.flip()
+KeyboardInterrupt
+
+Playing as WHITE:
+	
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+-----------------------------
+
